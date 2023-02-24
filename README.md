@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, how are you?<br>I am currently studying computer science with passion for full stack web development
+Hi, I'm Kirubel<br>Currently studying computer science with passion for full stack web development
 
 
 ## 🌐 Socials:
