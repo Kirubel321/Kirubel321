@@ -1,5 +1,5 @@
 # 💫 About Me:
-Greetings!, I'm Kirubel a seasoned Full-Stack Web Developer specializing in backend development with Django, <br>With my expertise in building scalable and efficient web applications,<br>I have honed my skills in designing and implementing robust back-end systems. <br>Join me and showcase how my proficiency in backend technologies can elevate your project.<br>
+Greetings!, I'm Kirubel a seasoned Full-Stack Web Developer specializing in backend development with Django, <br>With my expertise in building scalable and efficient web applications, I have honed my skills in designing and implementing robust back-end systems. <br>Join me and showcase how my proficiency in backend technologies can elevate your project.<br>
 
 
 ## 🌐 Socials:
